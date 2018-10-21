@@ -1,5 +1,5 @@
 name: ZS-PlaySound
-version: "X"
+version: "1.0.0-Beta1"
 api: [3.3.0, 4.0.0]
 author: MineDefenser
 main: NewTrueTone\PlaySound
