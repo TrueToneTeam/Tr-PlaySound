@@ -26,7 +26,7 @@ class PlaySound extends PluginBase implements Listener{
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
 		
 		/* 플러그인 사용안내 */
-		$this->getLogger()->critical("ZS-PlaySound vX | §e오르카 제작"); 
+		$this->getLogger()->critical("Tr-PlaySound vX | §e오르카 제작"); 
 		$this->getLogger()->notice("해당 플러그인은 TrueTone 서버 전용 플러그인으로 외부로 유출하실수 없습니다."); 
 		$this->getLogger()->notice("해당 플러그인은 §eTrueTone Inc.§b 라이센스로 보호받고 있습니다.");
 		/* 플러그인 사용안내 */
